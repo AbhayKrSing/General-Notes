@@ -1,0 +1,4 @@
+What is difference between API and endpoint?
+Ans:
+An endpoint is a component of an API, while an API is a set of rules that allow two applications to share resources. Endpoints are the locations of the resources,
+ and the API uses endpoint URLs to retrieve the requested resources.

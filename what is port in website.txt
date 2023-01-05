@@ -1,0 +1,4 @@
+What is port in Website?
+Web server ports are the logical endpoints of a network connection that is used to exchange information between
+ a web server and a web client. These ports are assigned a unique number to identify them separately.
+ Port 80 and 443 are the two standard ports used by web servers to communicate with the web clients.
