@@ -1,0 +1,10 @@
+Repl is read ,evaluate,print and loop
+
+ex) if you type a=98
+1st it read
+2nd it assign 98 to a
+3rd it print
+4th again start
+
+In python ,write python in command prompt to open repl
+In Nodejs ,write node in command prompt to open repl
